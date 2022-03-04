@@ -19,3 +19,7 @@ h1{
   border-radius: 25px;
   margin: auto;
 }
+
+.highlight {
+  background-color: yellow;
+}
