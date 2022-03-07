@@ -1,3 +1,4 @@
+
 body {background-color:black; font-family:arial;color:white}
 h1{color:grey;font-family:verdana}
 
@@ -10,7 +11,7 @@ h1{color:grey;font-family:verdana}
 
 td{
     padding:7px;
-    width:150px;
+    width:300px;
 }
 
 .table{
@@ -31,6 +32,7 @@ td{
     height:25px;
     
 }
+
 
 .row:after{
    content: "";
